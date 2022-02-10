@@ -110,12 +110,12 @@ const Contact = () => {
 				I am looking for internships opportunities in Software-Dev domain. If you think I am the good match
 			 	for your company then drop a mail. :)
 				<br />
-				My Inbox is always opened. You can communicate with me through email or linkedIn if you
-				want. I'll try my best to answer back.
+				My Inbox is always opened. You can communicate with me through contact form or email or linkedIn. I'll try my best to							
+												answer back.
 			</div>
 			<div className={classes.mailMe}>
 				<a className={classes.mailLink} href="https://arpitgupta1014.github.io/Contact-form/">
-					Say Hello
+					Contact me
 				</a>
 			</div>
 		</div>
