@@ -2,7 +2,7 @@ exports.data = [
 	{
 		tab: "B.Tech.",
 		role: "B.Tech.",
-		institute: "Nit Allahabad",
+		institute: "NIT Allahabad",
 		instituteLink: "http://www.mnnit.ac.in",
 		date: "Nov 2020 - Pursuing",
 		description: [

@@ -114,7 +114,7 @@ const HamburgerMenu = () => {
 
 				<div className={classes.resume}>
 					<a
-						href="/Sagar_Mittal_Resume.pdf"
+						href="/Arpit_Resume.pdf"
 						target="blank"
 						className={classes.linkNav}
 						style={{color: Colors.themeFontColor}}>
