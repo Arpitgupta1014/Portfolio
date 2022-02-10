@@ -15,7 +15,6 @@ exports.data = [
 		tab: "Senior Secondary",
 		role: "Senior Secondary",
 		institute: "Saraswati Seva Sansthan",
-		instituteLink: "",
 		date: "May 2017 - May 2019",
 		description: [
 			"Completed senior secondary in PCM subject",
@@ -27,7 +26,6 @@ exports.data = [
 		tab: "Secondary",
 		role: "Secondary",
 		institute: "Agrawal Public School",
-		// instituteLink: "",
 		date: "May 2015 - May 2017",
 		description: [
 			"Passed seconday educatoion examination",

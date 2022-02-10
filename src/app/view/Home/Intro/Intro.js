@@ -52,7 +52,7 @@ const Intro = () => {
 				data-aos-delay="10"
 				data-aos-duration="1400"
 				data-aos-easing="ease-in-out">
-				I am an undergrad student pursuing B.Tech. in Electrical Engineering from NIT Allahabad.
+				I am an undergraduate student pursuing B.Tech. in Electrical Engineering from NIT Allahabad.
 			</div>
 
 			<div
