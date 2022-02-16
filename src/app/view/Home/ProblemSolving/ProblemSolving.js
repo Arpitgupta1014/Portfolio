@@ -31,9 +31,9 @@ const ProblemSolving = () => {
 					<br />I have solved
 					upto <span className={classes.stats}>200</span> problems in various platforms, with a max rating of{" "}
 					<span className={classes.stats}>1876</span> at CodeChef. In codeforces I have participated
-					in <span className={classes.stats}>8</span> contests with the max rating of{" "}
-					<span className={classes.stats}>958</span>.Also I have {" "}
-					<span className={classes.stats}>1516</span>rating at hackerearth.
+					in <span className={classes.stats}>9</span> contests with the max rating of{" "}
+					<span className={classes.stats}>958</span>. Also I have {" "}
+					<span className={classes.stats}>1516</span> rating at hackerearth.
 					<br />
 					{/* <br />I have also participated in{" "}
 					<a className={classes.link} href="./hashcode_2019_certificate.pdf" target="blank">
