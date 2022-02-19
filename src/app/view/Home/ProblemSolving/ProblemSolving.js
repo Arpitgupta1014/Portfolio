@@ -26,7 +26,7 @@ const ProblemSolving = () => {
 					<a className={classes.link} href="https://codechef.com/" target="blank">
 						CodeChef
 					</a>
-					.Also I am doing web developement continuously.<br />
+					. Also I am doing web developement continuously.<br />
 					{/* <br />I have participated in <span className={classes.stats}>88</span> contests and solved */}
 					<br />I have solved
 					upto <span className={classes.stats}>200</span> problems in various platforms, with a max rating of{" "}
