@@ -31,7 +31,7 @@ const ProblemSolving = () => {
 					<br />I have solved
 					upto <span className={classes.stats}>200</span> problems in various platforms, with a max rating of{" "}
 					<span className={classes.stats}>1876</span> at CodeChef. In codeforces I have participated
-					in <span className={classes.stats}>9</span> contests with the max rating of{" "}
+					in <span className={classes.stats}>11</span> contests with the max rating of{" "}
 					<span className={classes.stats}>958</span>. Also I have {" "}
 					<span className={classes.stats}>1516</span> rating at hackerearth.
 					<br />
