@@ -131,7 +131,7 @@ const NavBar = () => {
 					data-aos-delay="10"
 					data-aos-duration="1900"
 					data-aos-easing="ease-in-out">
-					<a href="/Arpit_Resume.pdf" target="blank" className={classes.linkNav}>
+					<a href="/ArpitResume.pdf" target="blank" className={classes.linkNav}>
 						Resume
 					</a>
 				</div>
