@@ -40,6 +40,7 @@ const Intro = () => {
 				data-aos-delay="10"
 				data-aos-duration="1300"
 				data-aos-easing="ease-in-out">
+				<head> <p>I'm<span class="typed" data-typed-items=" Web Developer, Creative Programmer, Video editor, A Learner"></span></p></head>
 				Syntaxing Success :)
 			</div>
 
