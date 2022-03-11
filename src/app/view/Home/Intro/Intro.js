@@ -40,20 +40,8 @@ const Intro = () => {
 				data-aos-delay="10"
 				data-aos-duration="1300"
 				data-aos-easing="ease-in-out">
-			     I'm
-				<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
-				
-	<script>
-		var typing=new Typed(".text", {
-			strings: [ "Web Designer", "Freelancer", "Graphics Designer", "Web Developer"],
-			typeSpeed: 100,
-			backSpeed: 40,
-			loop: true,
-		});
-	 </script>
-	 Syntaxing Success :)
+			    Syntaxing Success :)
 	 </div>
-
 			<div
 				style={{color: Colors.shortDescriptionColor}}
 				className={classes.shortDescription}
