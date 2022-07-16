@@ -7,7 +7,7 @@ exports.data = [
 		date: "Nov 2020 - Pursuing",
 		description: [
 			"Pursuing B.Tech. in Electrical Engineering",
-			"CGPA - 9.52 out of 10",
+			"CGPA - 9.58 out of 10",
 		],
 	},
 
